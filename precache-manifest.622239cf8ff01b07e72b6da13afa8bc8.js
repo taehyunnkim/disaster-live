@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "91ec73190e902109c4fe",
+    "revision": "79c96bd9899f3584c7e2",
     "url": "/disaster-live/static/css/main.d4849ef4.chunk.css"
   },
   {
-    "revision": "91ec73190e902109c4fe",
-    "url": "/disaster-live/static/js/main.91ec7319.chunk.js"
+    "revision": "79c96bd9899f3584c7e2",
+    "url": "/disaster-live/static/js/main.79c96bd9.chunk.js"
   },
   {
     "revision": "c26eef5f052fd8d0554c",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/disaster-live/static/js/runtime~main.bb9fb1f8.js"
   },
   {
-    "revision": "202275d470bce2f456e81726f17cf4d4",
+    "revision": "a562f34342fb2c4cff09a5e9c047fa0b",
     "url": "/disaster-live/index.html"
   }
 ];
