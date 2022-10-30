@@ -13,8 +13,8 @@ code {
 }
 
 a {
-  color: black!important;
-  text-decoration: none!important;
+  color: black;
+  text-decoration: none;
 }
 
 footer {margin-top: 30px;
@@ -49,8 +49,14 @@ footer p {
   padding: 20px 10px;
 }
 
-.navbar-brand {
-  margin-top: 2px;
+.navbar-nav li {
+  padding: 12px;
+  font-weight: 600;
+  color: gray;
+}
+
+.nav-active {
+  color: black;
 }
 
 .org-card {

@@ -6,7 +6,8 @@ Disaster Live is a web application designed to inform users of **ongoing world d
 
 The Disaster Live webpage contains information on ongoing worldwide disaster, disaster-related news, and global disaster relief organizations. Users may find relevant and current information by using the drop-down menu in the main landing page.
 
-## [View Project](https://disaster-live-d36d1.web.app/)
+#### [View Project](https://github.com/taehyunnkim/disaster-live)
+#### [Original Repo](https://github.com/taehyunnkim/project-2-taehyunnkim)
 
 ## Setup
 Run `npm install` in both `client` and `backend` to install all of the required dependencies.
